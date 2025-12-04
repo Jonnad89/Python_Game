@@ -1,3 +1,50 @@
+# Python 2D Arcade Game (Pygame)
+
+## Project Overview
+
+This project is a small, functional **2D arcade game** developed using the **Pygame** library in Python. It serves as a strong demonstration of object-oriented programming (OOP) principles and core software engineering concepts applied to real-time development.
+
+## Key Features & Functionality
+
+* **Game Loop Implementation:** Manages all rendering, state updates, and event processing within a clean, efficient game loop.
+* **Event Handling:** Implementation of event listeners to process real-time user input (keyboard and/or mouse).
+* **Object-Oriented Design:** Uses classes (e.g., Player, Enemy, GameState) to manage game elements, ensuring a modular and scalable codebase.
+* **State Management:** Controls game flow, including tracking the score, managing lives, and handling transitions between states (e.g., Start Screen, Game Over).
+* **Collision Detection:** Implementation of logical checks to determine interactions between game objects (e.g., player and boundaries, player and enemies).
+
+## Tech Stack
+
+* **Language:** Python 3.x
+* **Libraries:** Pygame
+* **Core Concepts:** Object-Oriented Programming (OOP), Event-Driven Architecture, Game Physics (Basic).
+
+## Installation and Setup
+
+### **Prerequisites**
+
+You must have Python 3.x installed.
+
+### **Steps**
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/Jonnad89/Python_Game](https://github.com/Jonnad89/Python_Game)
+    cd Python_Game
+    ```
+2.  **Install Dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  **Run the Game:**
+    ```bash
+    python [Your Main Game File Name].py
+    ```
+
+
+
+
+## Spanish ##
+
 Este proyecto consiste en la creación de un juego simple utilizando la biblioteca PyGame en Python. El objetivo es desarrollar un juego básico con funcionalidades mínimas que demuestren el uso de PyGame y sus capacidades.
 
 ## Funcionalidades del juego
